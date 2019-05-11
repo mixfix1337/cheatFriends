@@ -1,5 +1,6 @@
 {
     "accessToken": "",
+    "versionAPI": "5.92",
     "textWhenAdding": "",
     "delayBeforeIteration": 5000
 }
